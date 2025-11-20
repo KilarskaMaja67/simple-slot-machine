@@ -1,2 +1,2 @@
-# simple-slot-machine
-A simple slot machine game, playable from the terminal.
+# About my simple slot machine game
+"simple-slot-machine" is a casino style game that incorporates randomization to 'spin' the machine. A user-player has a default-set amount of money, which may increase or decrease depending on the game results. Each round ends either in a lose, or a win. A win results in a weighted award system. After each round the user-player has the option to either quit or continue. The game ends by the user-player's choice or when the user-player has no more money to bet. 
